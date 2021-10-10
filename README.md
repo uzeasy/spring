@@ -1,2 +1,2 @@
-# bamboo
-record my growth 
+# spring
+a young man start from here
